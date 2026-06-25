@@ -70,4 +70,3 @@ Considerations for component costs (gateways, NAT, load balancers, data transfer
 ---
 
 If you want, I can also generate a Terraform starter layout or add diagrams — tell me which one to do next.
-need to understand the flow of project.
