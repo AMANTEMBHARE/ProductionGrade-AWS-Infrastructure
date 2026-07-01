@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# local environment configs (if you test locally)
+.env
+*.pem
+*.json
